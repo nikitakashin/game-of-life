@@ -1,0 +1,5 @@
+@mixin safe-hide {
+  position: absolute;
+  top: -19999px;
+  left: -19999px;
+}
